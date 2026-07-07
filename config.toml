@@ -1,0 +1,13 @@
+# Tema visual de la aplicacion (estilo moderno / Power BI)
+# Streamlit aplica estos colores automaticamente al iniciar.
+
+[theme]
+primaryColor = "#6C4BD8"
+backgroundColor = "#F7F5FB"
+secondaryBackgroundColor = "#FFFFFF"
+textColor = "#241B4B"
+font = "sans serif"
+
+[server]
+# Evita que se reinicie la app por cambios en el Excel mientras se usa
+runOnSave = false
